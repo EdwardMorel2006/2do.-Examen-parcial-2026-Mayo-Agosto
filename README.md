@@ -1,0 +1,1 @@
+# 2do.-Examen-parcial-2026-Mayo-Agosto
