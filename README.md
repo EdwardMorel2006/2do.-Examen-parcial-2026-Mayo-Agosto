@@ -1,3 +1,5 @@
+SUSTENTANTE: EDWARD ALBERTO MOREL RAMIREZ (2025-1672)
+
 Cafetería El Buen Sabor
 
 Aplicación de Windows Forms en C# para registrar productos de una cafetería y calcular el total de un pedido.
